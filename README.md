@@ -1,3 +1,2 @@
-# buildspace 
-### Welcome 👋
-This is the starter template for the [build your own AI writing assistant w/ GPT-3](https://buildspace.so/builds/ai-writer) project.
+# Samuel L Jackson responds to your text
+Quick little nextjs app that allows you to drop some text into a field and have SLJ respond!
